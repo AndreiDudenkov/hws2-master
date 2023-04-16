@@ -23,9 +23,9 @@ export type UserType = {
     name: string // need to fix any
 }
 
-export const pureAddUserCallback = (name: string,  users:UserType[] ,setUsers:(users:UserType[])=>void )=> {
+export const pureAddUserCallback = (name: string, setUsers:(users:UserType[])=>void, users:UserType[])=> {
 
-        const user = {
+        const  user = {
             name: name,
             _id: v1()
         }
@@ -42,7 +42,7 @@ const HW3 = () => {
     const addUserCallback = (name: string) => { // need to fix any
 
 
-            pureAddUserCallback(name, users, setUsers )
+            pureAddUserCallback(name, setUsers, users )
 
 
     }
