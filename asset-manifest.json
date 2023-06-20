@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/messenger/static/css/main.f8c24939.css",
-    "main.js": "/messenger/static/js/main.625d077d.js",
+    "main.css": "/messenger/static/css/main.c126d822.css",
+    "main.js": "/messenger/static/js/main.a69e21c0.js",
     "static/js/787.66cb4309.chunk.js": "/messenger/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/messenger/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/messenger/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -10,12 +10,12 @@
     "static/media/checked.svg": "/messenger/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/messenger/index.html",
     "static/media/burger.svg": "/messenger/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.f8c24939.css.map": "/messenger/static/css/main.f8c24939.css.map",
-    "main.625d077d.js.map": "/messenger/static/js/main.625d077d.js.map",
+    "main.c126d822.css.map": "/messenger/static/css/main.c126d822.css.map",
+    "main.a69e21c0.js.map": "/messenger/static/js/main.a69e21c0.js.map",
     "787.66cb4309.chunk.js.map": "/messenger/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8c24939.css",
-    "static/js/main.625d077d.js"
+    "static/css/main.c126d822.css",
+    "static/js/main.a69e21c0.js"
   ]
 }
